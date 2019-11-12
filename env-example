@@ -1,0 +1,4 @@
+#Mysql config
+MYSQL_HOST=
+MYSQL_USER=
+MYSQL_PASS=
