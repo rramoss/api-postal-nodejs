@@ -10,9 +10,9 @@
   "author": "Ramses Ramos",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.2.0",
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
